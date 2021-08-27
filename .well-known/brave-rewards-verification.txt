@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: spencerobsitnik.com
+Token: a21ba4a0191875c47a35697eff178cc8c97a2bd2c030c3f2f473018b39fd43bb
