@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/threekly/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/threekly/threekly_fri_8.27.21/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/classiccomedy/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,11 +26,11 @@
     <loc>https://example.com/posts/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+    <loc>https://example.com/shoutouts/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+    <loc>https://example.com/threekly/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
@@ -44,9 +56,10 @@
     <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>https://example.com/facebook/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://example.com/authors/</loc>
   </url><url>
     <loc>https://example.com/series/</loc>
   </url>

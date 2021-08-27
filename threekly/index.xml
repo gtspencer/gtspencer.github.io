@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Threekly on spencerobsitnik</title>
+    <link>https://example.com/threekly/</link>
+    <description>Recent content in Threekly on spencerobsitnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/threekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threekly 1: The first Threekly!</title>
+      <link>https://example.com/threekly/threekly_fri_8.27.21/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/threekly/threekly_fri_8.27.21/</guid>
+      <description>And thus begins my first weekly. A major point of this is exercise is to keep engaged and up to date with both current events and current media. I often find myself wishing I had kept more up-to-date with certain happenings, and this is my chance to mitigate any of that in the future. With that being said, let&amp;rsquo;s dive in to this week&amp;rsquo;s Threekly:
+       </description>
+    </item>
+    
+  </channel>
+</rss>
