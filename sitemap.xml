@@ -14,6 +14,9 @@
     <loc>https://example.com/threekly/threekly_fri_8.27.21/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/blog/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/classiccomedy/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +30,9 @@
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/shoutouts/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/soxso/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/threekly/</loc>

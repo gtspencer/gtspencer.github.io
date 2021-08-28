@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>blog</title>
+      <link>https://example.com/tags/blog/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>classiccomedy</title>
       <link>https://example.com/tags/classiccomedy/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
@@ -31,6 +40,15 @@
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/firstpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOxSO</title>
+      <link>https://example.com/tags/soxso/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/soxso/</guid>
       <description></description>
     </item>
     
