@@ -2,11 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/tags/dev/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/ethereum/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/solidity/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/firstpost0/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/bitcoin/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/dev/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/erc20/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/function-of-supply/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/one_token_many_token/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/project/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/the_function_of_supply/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/threekly/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
@@ -26,9 +68,6 @@
     <loc>https://example.com/tags/firstpost/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/shoutouts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,27 +76,6 @@
   </url><url>
     <loc>https://example.com/threekly/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/projects/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/projects/external-post/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>

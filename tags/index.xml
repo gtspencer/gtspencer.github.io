@@ -6,7 +6,61 @@
     <description>Recent content in Tags on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dev</title>
+      <link>https://example.com/tags/dev/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethereum</title>
+      <link>https://example.com/tags/ethereum/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solidity</title>
+      <link>https://example.com/tags/solidity/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/solidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bitcoin</title>
+      <link>https://example.com/tags/bitcoin/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>erc20</title>
+      <link>https://example.com/tags/erc20/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/erc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>function of supply</title>
+      <link>https://example.com/tags/function-of-supply/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/function-of-supply/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>threekly</title>
       <link>https://example.com/tags/threekly/</link>
@@ -49,33 +103,6 @@
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/soxso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://example.com/tags/development/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/themes/</guid>
       <description></description>
     </item>
     

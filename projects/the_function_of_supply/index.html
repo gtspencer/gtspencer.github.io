@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+
+    <meta name="author" content="Spencer Obsitnik">
+    <meta name="description" content="The function of supply: an experiment in the supply of ERC-20 tokens">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value"/>
+<meta name="twitter:description" content="The function of supply: an experiment in the supply of ERC-20 tokens"/>
+
+    <meta property="og:title" content="The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value" />
+<meta property="og:description" content="The function of supply: an experiment in the supply of ERC-20 tokens" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/projects/the_function_of_supply/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2021-08-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-08-28T00:00:00+00:00" />
+
+
+
+    <title>
+  The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value · spencerobsitnik
+</title>
+
+    
+      <link rel="canonical" href="https://example.com/projects/the_function_of_supply/">
+    
+
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.34dfa7b2f5cdeb0f5302b2628f4a7a4bfe88a2431e1397ee4ec605c56ab69701.css" integrity="sha256-NN&#43;nsvXN6w9TArJij0p6S/6IokMeE5fuTsYFxWq2lwE=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.aa883b9ce35a8ff4a2a5008619005175e842bb18a8a9f9cc2bbcf44dab2d91fa.css" integrity="sha256-qog7nONaj/SipQCGGQBRdehCuxioqfnMK7z0Tastkfo=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.87.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="preload-transitions colorscheme-auto"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      spencerobsitnik
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/threekly/">Threekly</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/shoutouts/">SOxSO</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="https://example.com/projects/the_function_of_supply/">
+          The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value
+        </a>
+      </h1>
+    </header>
+
+    <h2 id="an-experiment-in-the-supply-of-erc-20-tokens">
+  An Experiment in the Supply of ERC-20 Tokens
+  <a class="heading-link" href="#an-experiment-in-the-supply-of-erc-20-tokens">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
+<h3 id="abstract">
+  Abstract
+  <a class="heading-link" href="#abstract">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>This &ldquo;greypaper&rdquo; serves to identify a little discussed issue.  Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&rsquo;ve dubbed &ldquo;the Satoshi problem.&rdquo;  High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</p>
+<p>In order to be a useful currency, a monetary system should exhibit certain <a href="https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-9-functions-of-money#:~:text=The%20characteristics%20of%20money%20are,%2C%20limited%20supply%2C%20and%20acceptability." title="St. Louis Fed Function of Money">characteristics</a>:</p>
+<ol>
+<li>Durability</li>
+<li>Portability</li>
+<li>Divisibility</li>
+<li>Uniformity</li>
+<li><strong>Limited supply</strong></li>
+<li>Acceptability</li>
+</ol>
+<p>Most cryptocurrencies exhibit many if not all of these characteristics.</p>
+<p>Popular cryptocurrency native networks like Bitcoin and Ethereum pose a little understood problem.  The underlying code in the Ethereum Virtual Machine (EVM) and the Bitcoin network physically doesn&rsquo;t compute decimals.  Instead, they hard-code the decimal point.  Consider the following in regards to Bitcoin:</p>
+<blockquote>
+<p>Bitcoin has a hard cap of 21 million coins.
+Bitcoin is divisible up to 8 decimals per the Bitcoin <a href="https://github.com/bitcoin/bitcoin/blob/master/src/amount.h">source code</a>.  This smallest divisible unit is called a Satoshi.
+This means, one Satoshi is equal to 1 / 100,000,000 of a Bitcoin.
+If one were to send 1 Bitcoin, they are actually sending 100,000,000 Satoshis.  The wallet software sees that amount of Satoshi, reads the Bitcoin source code to find out where to place the decimal, and places the decimal 8 points in.  In essence, it is valid to think about this transaction as sending 100,000,000 Satoshis as opposed to sending 1 Bitcoin.</p>
+</blockquote>
+<p>A token with a &ldquo;smallest divisible asset&rdquo; (a Satoshi in Bitcoin terms) poses an interesting set of problems for a token with high liquidity.</p>
+<p>The smallest divisible asset sets limitations on the network:</p>
+<ol>
+<li>The minimum transactable value of the network is the smallest divisible asset.</li>
+<li>The minimum transaction fee of the network is the smallest divisible asset.</li>
+</ol>
+<p>Imagine Bitcoin is trading at $1 million a token.  This means a 2 things: the minimum transactable value of the network is 1 cent, and the minimum transaction fee is 1 cent.</p>
+<h3 id="minimum-transactable-value">
+  Minimum Transactable Value
+  <a class="heading-link" href="#minimum-transactable-value">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>The minimum transactable value of a network should serve the needs of everyone in the network.  At a minimum transactable value of even 1 cent, many financial services are left unusable.  Compounded interest is frequently calculated in divisions less than 1 cent.  Even automotive gas is priced in increments less than 1 cent.  For a network to be sustainable, its minimum transactable value must scale down with the network, relative to the dollar.</p>
+<h3 id="minimum-network-fee">
+  Minimum Network Fee
+  <a class="heading-link" href="#minimum-network-fee">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>Microtransactions, those less than 10 cents, are impossible, as network fees eat in to 10% of the trade.</p>
+<h3 id="velocity-of-money">
+  Velocity of Money
+  <a class="heading-link" href="#velocity-of-money">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p><a href="https://vitalik.ca/general/2017/10/17/moe.html">https://vitalik.ca/general/2017/10/17/moe.html</a></p>
+<h3 id="move-the-decimals">
+  Move the Decimals!
+  <a class="heading-link" href="#move-the-decimals">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>The obvious solution is to move the decimals.  Since the network imposes this arbitrarily, it would be trivial to divide Bitcoin further, say to 18 decimals like Ethereum.</p>
+<p>This creates more tradeable entities.  While not necessarily increasing supply, increasing the decimals does increase the amount users are able to trade.  This by definition increases the velocity.</p>
+<h3 id="one-token-vs-many-token">
+  One Token vs. Many Token
+  <a class="heading-link" href="#one-token-vs-many-token">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>To better understand this problem, I present two tokens: One Token and Many Token.  Each is implemented identically with one key difference: their supply.  Each token has identical amounts of tradeable entities (1x10^77), with strikingly opposite supplies.</p>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>Contact me at on Twitter @spencerobsitnik or by email at spencerobsitnik[at]gmail[dot]com</p>
+      
+      
+        ©
+        
+        2021
+         Spencer Obsitnik 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+        
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+      <script src="/js/coder.min.03b17769f4f91ae35667e1f2a1ca8c16f50562576cf90ff32b3179926914daa5.js" integrity="sha256-A7F3afT5GuNWZ&#43;HyocqMFvUFYlds&#43;Q/zKzF5kmkU2qU="></script>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=GTM-T4SXP4T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GTM-T4SXP4T');
+</script>
+
+  </body>
+
+</html>
