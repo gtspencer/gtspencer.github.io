@@ -6,16 +6,26 @@
     <description>Recent content on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threekly 1: The first Threekly!</title>
+      <link>https://example.com/threekly/threekly_fri_8.27.21/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/threekly/threekly_fri_8.27.21/</guid>
+      <description>And thus begins my first weekly. A major point of this is exercise is to keep engaged and up to date with both current events and current media. I often find myself wishing I had kept more up-to-date with certain happenings, and this is my chance to mitigate any of that in the future. With that being said, let&amp;rsquo;s dive in to this week&amp;rsquo;s Threekly:
+1. A thought problem I&amp;rsquo;ve been consumed with:Russell&amp;rsquo;s ParadoxThis video does a great job explaining it, but in short, it deals with Set Theory.</description>
+    </item>
+    
     <item>
       <title>Takeaways From Learning Ethereum</title>
-      <link>https://example.com/posts/firstpost0/</link>
+      <link>https://example.com/posts/learningsolidity/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/firstpost0/</guid>
+      <guid>https://example.com/posts/learningsolidity/</guid>
       <description>Over the past few months, I have done a deep dive in to Solidity and Ethereum development. This has included some Web3, but the main focus has been on Solidity and ERC standards. Below is a short list of resources I used, as well as some brief takeaways.
-Resources I UsedThings I LikedImplicit function variables
-Some variables are exposed to functions implicitly. Things like msg.</description>
+Resources I UsedNader Dabit. I cannot stress enough how phenomenal that guy is at teaching.
+Tutorials https://cryptozombies.</description>
     </item>
     
     <item>
@@ -24,7 +34,7 @@ Some variables are exposed to functions implicitly. Things like msg.</descriptio
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/projects/one_token_many_token/</guid>
-      <description></description>
+      <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
     </item>
     
     <item>
@@ -34,16 +44,6 @@ Some variables are exposed to functions implicitly. Things like msg.</descriptio
       
       <guid>https://example.com/projects/the_function_of_supply/</guid>
       <description>An Experiment in the Supply of ERC-20 TokensAbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
-    </item>
-    
-    <item>
-      <title>Threekly 1: The first Threekly!</title>
-      <link>https://example.com/threekly/threekly_fri_8.27.21/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/threekly/threekly_fri_8.27.21/</guid>
-      <description>And thus begins my first weekly. A major point of this is exercise is to keep engaged and up to date with both current events and current media. I often find myself wishing I had kept more up-to-date with certain happenings, and this is my chance to mitigate any of that in the future. With that being said, let&amp;rsquo;s dive in to this week&amp;rsquo;s Threekly:
- A thought problem I&amp;rsquo;ve been consumed with:  Russell&amp;rsquo;s ParadoxThis video does a great job explaining it, but I will do my best here.</description>
     </item>
     
     <item>
@@ -61,8 +61,7 @@ Some variables are exposed to functions implicitly. Things like msg.</descriptio
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/about/</guid>
-      <description>Spencer Obsitnik (born Speezy F Baby, November 17, 1995) is an Oscar nominated child of four. After inventing Facebook, he rode 1000 miles on camelback to diffuse forgotten landmines. An Ashkenazi Jew by trade, and an Olympic surfer by birthright, he now lays dormant on his vast collections of oxford commas, beanie babies, and Cheerio&amp;rsquo;s Year 2000 pennies, where he wishes to be disturbed only by the Obamas.
-You may say I&amp;rsquo;m a dreamer, but I&amp;rsquo;m not.</description>
+      <description>Spencer Obsitnik (born Speezy F Baby, November 17, 1995) is an Oscar nominated child of four. After inventing Facebook and winning &amp;ldquo;Least Likely to Hyperbolize&amp;rdquo; in a grade school he did not attent, he rode 1000 miles on camelback to diffuse forgotten landmines. An Ashkenazi Jew by trade, and an Olympic surfer by birthright, he now lays dormant on his vast collections of oxford commas, beanie babies, and Cheerio&amp;rsquo;s Year 2000 pennies, where he wishes to be disturbed only by the Obamas.</description>
     </item>
     
     <item>

@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/threekly/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/threekly/threekly_fri_8.27.21/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/dev/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,13 +26,7 @@
     <loc>https://example.com/tags/solidity/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/firstpost0/</loc>
+    <loc>https://example.com/posts/learningsolidity/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/bitcoin/</loc>
@@ -49,12 +55,6 @@
   </url><url>
     <loc>https://example.com/projects/the_function_of_supply/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/threekly/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/threekly/threekly_fri_8.27.21/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/blog/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
