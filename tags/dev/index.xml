@@ -33,7 +33,8 @@ Tutorials https://cryptozombies.</description>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/projects/the_function_of_supply/</guid>
-      <description>An Experiment in the Supply of ERC-20 TokensAbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
+      <description>An Experiment in the Supply of ERC-20 TokensThis is still a work in progress
+AbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
     </item>
     
   </channel>
