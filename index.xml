@@ -6,15 +6,35 @@
     <description>Recent content on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threekly 2: </title>
+      <link>https://example.com/threekly/threekly_fri_9.17.21/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/threekly/threekly_fri_9.17.21/</guid>
+      <description>The threeklies continue&amp;hellip;
+1. A podcast I&amp;rsquo;ve been bingingAnthony PomlianoThis video does a great job explaining it, but in short, it deals with Set Theory. Imagine a set that contains all sets that do not contain itself. Does this set contain itself? The rules of the set says it both should, and should not&amp;hellip;
+2. A project I&amp;rsquo;ve come to loveLoot ProjectLoot Project is the brain child of Dom Hoffman, the creator of the once loved Vine.</description>
+    </item>
+    
     <item>
       <title>Threekly 1: The first Threekly!</title>
-      <link>https://example.com/threekly/threekly_fri_8.27.21/</link>
+      <link>https://example.com/threekly/threekly_fri_9.10.21/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/threekly/threekly_fri_8.27.21/</guid>
+      <guid>https://example.com/threekly/threekly_fri_9.10.21/</guid>
       <description>And thus begins my first weekly. A major point of this is exercise is to keep engaged and up to date with both current events and current media. I often find myself wishing I had kept more up-to-date with certain happenings, and this is my chance to mitigate any of that in the future. With that being said, let&amp;rsquo;s dive in to this week&amp;rsquo;s Threekly:
 1. A thought problem I&amp;rsquo;ve been consumed with:Russell&amp;rsquo;s ParadoxThis video does a great job explaining it, but in short, it deals with Set Theory.</description>
+    </item>
+    
+    <item>
+      <title>One Token vs. Many Token</title>
+      <link>https://example.com/projects/one_token_many_token/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/one_token_many_token/</guid>
+      <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
     </item>
     
     <item>
@@ -26,15 +46,6 @@
       <description>Over the past few months, I have done a deep dive in to Solidity and Ethereum development. This has included some Web3, but the main focus has been on Solidity and ERC standards. Below is a short list of resources I used, as well as some brief takeaways.
 Resources I UsedNader Dabit. I cannot stress enough how phenomenal that guy is at teaching.
 Tutorials https://cryptozombies.</description>
-    </item>
-    
-    <item>
-      <title>One Token vs. Many Token</title>
-      <link>https://example.com/projects/one_token_many_token/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/projects/one_token_many_token/</guid>
-      <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
     </item>
     
     <item>
@@ -57,12 +68,24 @@ AbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little dis
     </item>
     
     <item>
+      <title>Past Project Spotlight #1: Flying Blind, a heart-beat sensing game</title>
+      <link>https://example.com/projects/past_project_spotlight_1/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/past_project_spotlight_1/</guid>
+      <description>Code
+DesignThe purpose of this prototype was to incorporate controls that extended beyond the traditional human-computer interaction in game design.
+To achieve this, I chose to use off-the-shelf hardware to track a user&amp;rsquo;s heartbeat, which in turn controls the ship they are on.
+SoftwareThe game polls the heart rate monitor at a rate of 3 hz. At game start, I &amp;ldquo;calibrate&amp;rdquo; the sensor by taking the heart rate and computing a moving average across a range of 30 seconds.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://example.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/about/</guid>
-      <description>Spencer Obsitnik (born Speezy F Baby, November 17, 1995) is an Oscar nominated child of four. After inventing Facebook and winning &amp;ldquo;Least Likely to Hyperbolize&amp;rdquo; in a grade school he did not attent, he rode 1000 miles on camelback to diffuse forgotten landmines. An Ashkenazi Jew by trade, and an Olympic surfer by birthright, he now lays dormant on his vast collections of oxford commas, beanie babies, and Cheerio&amp;rsquo;s Year 2000 pennies, where he wishes to be disturbed only by the Obamas.</description>
+      <description>Spencer Obsitnik (born Speezy F Baby, November 17, 1995) is an Oscar nominated child of four. After inventing Facebook and winning &amp;ldquo;Least Likely to Hyperbolize&amp;rdquo; in a grade school he did not attend, he rode 1000 miles on camelback to diffuse forgotten landmines. An Ashkenazi Jew by trade, and an Olympic surfer by birthright, he now lays dormant on his vast collections of oxford commas, beanie babies, and Cheerio&amp;rsquo;s Year 2000 pennies, where he wishes to be disturbed only by the Obamas.</description>
     </item>
     
     <item>

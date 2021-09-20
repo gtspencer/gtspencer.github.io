@@ -6,11 +6,11 @@
     <description>Recent content in Projects on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One Token vs. Many Token</title>
       <link>https://example.com/projects/one_token_many_token/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/projects/one_token_many_token/</guid>
       <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
@@ -24,6 +24,18 @@
       <guid>https://example.com/projects/the_function_of_supply/</guid>
       <description>An Experiment in the Supply of ERC-20 TokensThis is still a work in progress
 AbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
+    </item>
+    
+    <item>
+      <title>Past Project Spotlight #1: Flying Blind, a heart-beat sensing game</title>
+      <link>https://example.com/projects/past_project_spotlight_1/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/past_project_spotlight_1/</guid>
+      <description>Code
+DesignThe purpose of this prototype was to incorporate controls that extended beyond the traditional human-computer interaction in game design.
+To achieve this, I chose to use off-the-shelf hardware to track a user&amp;rsquo;s heartbeat, which in turn controls the ship they are on.
+SoftwareThe game polls the heart rate monitor at a rate of 3 hz. At game start, I &amp;ldquo;calibrate&amp;rdquo; the sensor by taking the heart rate and computing a moving average across a range of 30 seconds.</description>
     </item>
     
   </channel>
