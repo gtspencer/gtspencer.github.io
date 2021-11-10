@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>threekly on spencerobsitnik</title>
-    <link>https://example.com/tags/threekly/</link>
+    <link>/tags/threekly/</link>
     <description>Recent content in threekly on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/threekly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/threekly/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Threekly 2: </title>
-      <link>https://example.com/threekly/threekly_fri_9.17.21/</link>
+      <title>Threekly 2: It Continues...</title>
+      <link>/threekly/threekly_fri_9.17.21/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/threekly/threekly_fri_9.17.21/</guid>
+      <guid>/threekly/threekly_fri_9.17.21/</guid>
       <description>The threeklies continue&amp;hellip;
 1. A podcast I&amp;rsquo;ve been bingingAnthony PomlianoThis video does a great job explaining it, but in short, it deals with Set Theory. Imagine a set that contains all sets that do not contain itself. Does this set contain itself? The rules of the set says it both should, and should not&amp;hellip;
 2. A project I&amp;rsquo;ve come to loveLoot ProjectLoot Project is the brain child of Dom Hoffman, the creator of the once loved Vine.</description>
@@ -20,20 +20,20 @@
     
     <item>
       <title>Threekly 1: The first Threekly!</title>
-      <link>https://example.com/threekly/threekly_fri_9.10.21/</link>
+      <link>/threekly/threekly_fri_9.10.21/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/threekly/threekly_fri_9.10.21/</guid>
+      <guid>/threekly/threekly_fri_9.10.21/</guid>
       <description>And thus begins my first weekly. A major point of this is exercise is to keep engaged and up to date with both current events and current media. I often find myself wishing I had kept more up-to-date with certain happenings, and this is my chance to mitigate any of that in the future. With that being said, let&amp;rsquo;s dive in to this week&amp;rsquo;s Threekly:
 1. A thought problem I&amp;rsquo;ve been consumed with:Russell&amp;rsquo;s ParadoxThis video does a great job explaining it, but in short, it deals with Set Theory.</description>
     </item>
     
     <item>
       <title>Threekly</title>
-      <link>https://example.com/threekly/</link>
+      <link>/threekly/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/threekly/</guid>
+      <guid>/threekly/</guid>
       <description>Every week, I choose 3 things that I found that interests me. This could be a movie or book, an article or a TV show, a song or a quote. This was heavily (if not entirely) inspired by Tim Ferriss who does a &amp;ldquo;5-bullet-Friday&amp;rdquo; of a similar nature. Check him out here: https://tim.blog/</description>
     </item>
     

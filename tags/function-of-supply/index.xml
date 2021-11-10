@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>function of supply on spencerobsitnik</title>
-    <link>https://example.com/tags/function-of-supply/</link>
+    <link>/tags/function-of-supply/</link>
     <description>Recent content in function of supply on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/function-of-supply/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/function-of-supply/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One Token vs. Many Token</title>
-      <link>https://example.com/projects/one_token_many_token/</link>
+      <link>/projects/one_token_many_token/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/one_token_many_token/</guid>
+      <guid>/projects/one_token_many_token/</guid>
       <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
     </item>
     
     <item>
       <title>The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value</title>
-      <link>https://example.com/projects/the_function_of_supply/</link>
+      <link>/projects/the_function_of_supply/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/the_function_of_supply/</guid>
+      <guid>/projects/the_function_of_supply/</guid>
       <description>An Experiment in the Supply of ERC-20 TokensThis is still a work in progress
 AbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
     </item>

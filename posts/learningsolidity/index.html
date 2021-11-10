@@ -20,7 +20,7 @@
     <meta property="og:title" content="Takeaways From Learning Ethereum" />
 <meta property="og:description" content="A brief description of my first post" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://example.com/posts/learningsolidity/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="/posts/learningsolidity/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-08-29T00:00:00+00:00" />
 <meta property="article:modified_time" content="2021-08-29T00:00:00+00:00" />
 
@@ -31,7 +31,7 @@
 </title>
 
     
-      <link rel="canonical" href="https://example.com/posts/learningsolidity/">
+      <link rel="canonical" href="/posts/learningsolidity/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -64,7 +64,7 @@
 
     
 
-    <meta name="generator" content="Hugo 0.87.0" />
+    <meta name="generator" content="Hugo 0.89.2" />
   </head>
 
   
@@ -131,7 +131,7 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="https://example.com/posts/learningsolidity/">
+            <a class="title-link" href="/posts/learningsolidity/">
               Takeaways From Learning Ethereum
             </a>
           </h1>
@@ -209,7 +209,7 @@
 <p>Some variables are exposed to functions implicitly.  Things like <code>msg.sender</code> and <code>txn.origin</code> that expose the address of the sender and the caller of the transaction respectively.</p>
 <p><strong>Modifiers</strong>
 Modifiers are used to restrict access to code.  They can perform a quick boolean check, or can be used for more complex purposes.  Below is a simple example:</p>
-<pre><code>// modifier
+<pre tabindex="0"><code>// modifier
 modifier isDivisible(uint a, uint b) {
   require(a % b == 0);
   _;
@@ -229,7 +229,7 @@ function divide(uint a, uint b) public isDivisible(a, b)
 </h2>
 <p><strong>Verbose function declarations</strong></p>
 <p>Solidity has extremely verbose function declarations.  For example:</p>
-<pre><code>function testDeclaration(string storage _name) public view returns (bool) {
+<pre tabindex="0"><code>function testDeclaration(string storage _name) public view returns (bool) {
   // some code here
 }
 </code></pre><p><strong>Seemingly Inefficient Programming Logic</strong>

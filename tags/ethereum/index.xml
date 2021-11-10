@@ -2,26 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ethereum on spencerobsitnik</title>
-    <link>https://example.com/tags/ethereum/</link>
+    <link>/tags/ethereum/</link>
     <description>Recent content in ethereum on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mannyverse Puzzle</title>
+      <link>/projects/mannyverse_puzzle/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/mannyverse_puzzle/</guid>
+      <description>I&amp;rsquo;ll write it proper later&amp;hellip;
+🥳🥳🥳 huge congrats to @spicedreams_ for finding the private key! Surprised it only took ~36 hours, will need to make the next one harder 😈 this nft gives free and early access to all my future projects! https://t.co/Ep5Djldl73
+&amp;mdash; Spencer Obsitnik.Ξth (@spencerobsitnik) October 15, 2021  </description>
+    </item>
+    
+    <item>
+      <title>The Mannyverse: A 3D Web3gl Game</title>
+      <link>/projects/mannyverse/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/mannyverse/</guid>
+      <description>Welcome to the Mannyverse.https://kintisbo.itch.io/mannyverse
+The Mannyverse is a custom world I built for a popular 3D NFT called Mannys.game.
+Mannys.game: An IntroManny is a person. Manny is also a collection of non-fungible digital clones of Manny.
+The original NFT Manny created was released as a psycological game. He used a 3d body scan of himself as the token, modifying a select number to have a special characterstic (Zombie Manny, Inverted Manny, Silver Manny, etc.</description>
+    </item>
+    
     <item>
       <title>One Token vs. Many Token</title>
-      <link>https://example.com/projects/one_token_many_token/</link>
+      <link>/projects/one_token_many_token/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/one_token_many_token/</guid>
+      <guid>/projects/one_token_many_token/</guid>
       <description>Both One Token and Many Token are under development and will be released soon! Stay tuned!</description>
     </item>
     
     <item>
       <title>Takeaways From Learning Ethereum</title>
-      <link>https://example.com/posts/learningsolidity/</link>
+      <link>/posts/learningsolidity/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/learningsolidity/</guid>
+      <guid>/posts/learningsolidity/</guid>
       <description>Over the past few months, I have done a deep dive in to Solidity and Ethereum development. This has included some Web3, but the main focus has been on Solidity and ERC standards. Below is a short list of resources I used, as well as some brief takeaways.
 Resources I UsedNader Dabit. I cannot stress enough how phenomenal that guy is at teaching.
 Tutorials https://cryptozombies.</description>
@@ -29,10 +52,10 @@ Tutorials https://cryptozombies.</description>
     
     <item>
       <title>The Function of Supply: An ERC-20 Experiment in Minimum Transactable Value</title>
-      <link>https://example.com/projects/the_function_of_supply/</link>
+      <link>/projects/the_function_of_supply/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/the_function_of_supply/</guid>
+      <guid>/projects/the_function_of_supply/</guid>
       <description>An Experiment in the Supply of ERC-20 TokensThis is still a work in progress
 AbstractThis &amp;ldquo;greypaper&amp;rdquo; serves to identify a little discussed issue. Popular tokens like Ethereum and Bitcoin, as they gain popularity, inch closer to a divisibility bomb in what I&amp;rsquo;ve dubbed &amp;ldquo;the Satoshi problem.&amp;rdquo; High market cap coins with limited supply and fixed divisibility will eventually experience a slowdown in the network when users are unable to micro-transact.</description>
     </item>

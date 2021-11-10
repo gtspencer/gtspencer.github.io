@@ -2,19 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SOxSO on spencerobsitnik</title>
-    <link>https://example.com/tags/soxso/</link>
+    <link>/tags/soxso/</link>
     <description>Recent content in SOxSO on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/soxso/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/soxso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shout Outs by Spencer O.</title>
-      <link>https://example.com/shoutouts/</link>
+      <link>/shoutouts/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/shoutouts/</guid>
+      <guid>/shoutouts/</guid>
       <description>This is where I shoutout my super talented friends and other up-and-comers who are making amazing things. Everything shared with permission.
-Mr. Facet Cold Worked Glass Art</description>
+Mr. FacetMr. Facet Cold Worked Glass Art
+Hamy (Hamilton)Hamy is a self-described creative technologist, and the name couldn&amp;rsquo;t better apply. Hamy is a socially conscious engineer, builder, creator, entrepreneur, and artist.
+He actively updates his findings and learnings in life in his blog, and is an established and dedicated (digital artist)[https://labs.</description>
     </item>
     
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>solidity on spencerobsitnik</title>
-    <link>https://example.com/tags/solidity/</link>
+    <link>/tags/solidity/</link>
     <description>Recent content in solidity on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/solidity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/solidity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Takeaways From Learning Ethereum</title>
-      <link>https://example.com/posts/learningsolidity/</link>
+      <link>/posts/learningsolidity/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/learningsolidity/</guid>
+      <guid>/posts/learningsolidity/</guid>
       <description>Over the past few months, I have done a deep dive in to Solidity and Ethereum development. This has included some Web3, but the main focus has been on Solidity and ERC standards. Below is a short list of resources I used, as well as some brief takeaways.
 Resources I UsedNader Dabit. I cannot stress enough how phenomenal that guy is at teaching.
 Tutorials https://cryptozombies.</description>

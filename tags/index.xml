@@ -2,134 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on spencerobsitnik</title>
-    <link>https://example.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on spencerobsitnik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>threekly</title>
-      <link>https://example.com/tags/threekly/</link>
-      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/threekly/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bitcoin</title>
-      <link>https://example.com/tags/bitcoin/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <link>/tags/bitcoin/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/bitcoin/</guid>
+      <guid>/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dev</title>
-      <link>https://example.com/tags/dev/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <link>/tags/dev/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/dev/</guid>
+      <guid>/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>erc20</title>
-      <link>https://example.com/tags/erc20/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <link>/tags/erc20/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/erc20/</guid>
+      <guid>/tags/erc20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ethereum</title>
-      <link>https://example.com/tags/ethereum/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <link>/tags/ethereum/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ethereum/</guid>
+      <guid>/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mannyverse</title>
+      <link>/tags/mannyverse/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mannyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nft</title>
+      <link>/tags/nft/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>threekly</title>
+      <link>/tags/threekly/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/threekly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>function of supply</title>
-      <link>https://example.com/tags/function-of-supply/</link>
+      <link>/tags/function-of-supply/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/function-of-supply/</guid>
+      <guid>/tags/function-of-supply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solidity</title>
-      <link>https://example.com/tags/solidity/</link>
+      <link>/tags/solidity/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/solidity/</guid>
+      <guid>/tags/solidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://example.com/tags/blog/</link>
+      <link>/tags/blog/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/blog/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>classiccomedy</title>
-      <link>https://example.com/tags/classiccomedy/</link>
+      <link>/tags/classiccomedy/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/classiccomedy/</guid>
+      <guid>/tags/classiccomedy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firstpost</title>
-      <link>https://example.com/tags/firstpost/</link>
+      <link>/tags/firstpost/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/firstpost/</guid>
+      <guid>/tags/firstpost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game dev</title>
-      <link>https://example.com/tags/game-dev/</link>
+      <link>/tags/game-dev/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/game-dev/</guid>
+      <guid>/tags/game-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://example.com/tags/project/</link>
+      <link>/tags/project/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/project/</guid>
+      <guid>/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spotlight</title>
-      <link>https://example.com/tags/spotlight/</link>
+      <link>/tags/spotlight/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/spotlight/</guid>
+      <guid>/tags/spotlight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOxSO</title>
-      <link>https://example.com/tags/soxso/</link>
+      <link>/tags/soxso/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/soxso/</guid>
+      <guid>/tags/soxso/</guid>
       <description></description>
     </item>
     
