@@ -1,117 +1,168 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dev/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/dev/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/project/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/ratformer/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/wall/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/outerwilds_clone/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/second_person_view/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/elevator/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>/tags/bitcoin/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dev/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/dev/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/erc20/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ethereum/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/mannyverse/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/mannyverse_puzzle/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/project/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/nft/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/projects/mannyverse/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/threekly/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/threekly/threekly_fri_9.17.21/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/threekly/threekly_fri_9.10.21/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/function-of-supply/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/one_token_many_token/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/solidity/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/learningsolidity/</loc>
-    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/the_function_of_supply/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/classiccomedy/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/firstpost/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/firstpost/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/game-dev/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/projects/past_project_spotlight_1/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/tags/game-dev/</loc>
+    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/project/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/spotlight/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/projects/vr_time_machine/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/shoutouts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/soxso/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/threekly/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/facebook/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/projects/2birds1stone/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/series/</loc>
   </url>
+  
 </urlset>
