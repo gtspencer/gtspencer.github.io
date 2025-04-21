@@ -141,6 +141,7 @@
 <p>Those familiar with Feynman and his revolutionary work will recognize this theoretical question he posed in his seminal lectures on physics.</p>
 <p>Today it is finally answered.</p>
 <p>Inspired by <a href="https://www.youtube.com/watch?v=3OmkehAJoyo">the physics of Jelly Car</a>, I sought to replicate this, but in 3D.</p>
+<p><img src="/images/rat/rattrials.gif" alt="rat trails"></p>
 <h3 id="initial-approach">
   Initial Approach
   <a class="heading-link" href="#initial-approach">
@@ -148,6 +149,7 @@
   </a>
 </h3>
 <p>Initially I just built a blob.  But players need something to connect to: a compelling character.  And thus Ratformer (a platformer with rats) was conceived.  While playing around with the blob, I felt it needed a tail, both to convey forward velocity, and because tail physics are fun to look at.  And, well, if it has a tail, it needs a head.</p>
+<p><img src="/images/rat/Rat.png" alt="rat"></p>
 <h3 id="phsyics-breakdown">
   Phsyics Breakdown
   <a class="heading-link" href="#phsyics-breakdown">
@@ -169,7 +171,14 @@
 </li>
 <li>A Quickhull algorithm implementation that draws a mesh using the points as vertices</li>
 </ul>
+<p><img src="/images/rat/RatPoints.png" alt="rat points"></p>
+<p>The points that make up the rat body</p>
+<p><img src="/images/rat/RatPointsTail.png" alt="rat points tail"></p>
+<p>The body with the tail points</p>
+<p><img src="/images/rat/RatPointsSkinned.png" alt="rat points skinned"></p>
+<p>There&rsquo;s many ways to skin a rat.  This is the Quickhull method.</p>
 <p>All in all, this feels very nice, even with limited tuning.  This was a very iterative process; simply relying on baked in Unity physics is not enough for a nice feeling physically &ldquo;accurate&rdquo; game.</p>
+<p><img src="/images/rat/ratview.gif" alt="rat view"></p>
 <h3 id="iterative-designs">
   Iterative Designs
   <a class="heading-link" href="#iterative-designs">
@@ -206,6 +215,8 @@ I added a spring force to push it back to it&rsquo;s theoretical &ldquo;correct&
 <li>Find the average radius of the circle</li>
 <li>Place the head point (or tail point) at the point in the circle furthest from the camera, at the average radius distance.  Do this once per frame and you have a head that moves on a &ldquo;rail&rdquo; around the rat, always facing the direction the camera is!</li>
 </ul>
+<p><img src="/images/rat/ratexplosion.gif" alt="rat points skinned"></p>
+<p>A bonus rat splat</p>
 
   </article>
 </section>
