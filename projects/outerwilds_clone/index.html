@@ -14,10 +14,10 @@
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="The Physics of Outerwilds"/>
+<meta name="twitter:title" content="Cat-er Wilds (The Physics of Outerwilds with a feline friend)"/>
 <meta name="twitter:description" content="An accurate(ish) universe"/>
 
-    <meta property="og:title" content="The Physics of Outerwilds" />
+    <meta property="og:title" content="Cat-er Wilds (The Physics of Outerwilds with a feline friend)" />
 <meta property="og:description" content="An accurate(ish) universe" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/projects/outerwilds_clone/" />
@@ -26,7 +26,7 @@
 
 
     <title>
-  The Physics of Outerwilds · spencerobsitnik
+  Cat-er Wilds (The Physics of Outerwilds with a feline friend) · spencerobsitnik
 </title>
 
     
@@ -126,19 +126,23 @@
     <header>
       <h1 class="title">
         <a class="title-link" href="/projects/outerwilds_clone/">
-          The Physics of Outerwilds
+          Cat-er Wilds (The Physics of Outerwilds with a feline friend)
         </a>
       </h1>
     </header>
 
-    <p>I love Outer Wilds.</p>
-<h4 id="what-i-discovered">
-  What I discovered
-  <a class="heading-link" href="#what-i-discovered">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-</h4>
-<p>The physics themselves are easy.  Making them feel good, where the player feels in control, is hard.</p>
+    <p>I love Outer Wilds.  And I love my cat.  So I combined them.</p>
+<p><img src="/images/physics/CatGif.gif" alt="outer wilds cat"></p>
+<p>I started out simply wanting to replicate the gravity simulation in Outer Wilds.  The physics themselves are easy (gravity, acceleration, velocity, etc.).  Making them feel good, where the player feels in control, is hard.</p>
+<p>Each object has a mass, which exerts a gravitational force on all other objects in game (with the exception of the sun, so it sits stationary).  Below you can see orbits traced out, along with gravitational force information, velocity, and distance from the orbiting central body.</p>
+<p>However everything felt lonely and empty.  So I added my cat that I modeled for a previous project.  It has a rigidbody that also reacts to gravity, and attempts to follow a target beside the player.  Meow.</p>
+<p>I&rsquo;m currently working on a ground controller for the cat, so it can land with the player and explore planets with them.</p>
+<p><img src="/images/physics/orbit.png" alt="outer wilds orbit"></p>
+<p>The hard part was alignment.  I took a rather simplistic approach and added trigger colliders to all &ldquo;landables&rdquo;.  When inside of the collider, the Y up vector of the player aligns against the gravitational force.</p>
+<p>In the future, I may try simply using the gravitational force on the player, and aligning with that force when above a certain threshold compared to velocity.  This would allow the player to smack planets with their faces, which is currently unfortunately not possible in my simulation.</p>
+<p><img src="/images/physics/Landing.gif" alt="outer wilds orbit"></p>
+<p>All in all the phsyics are fun to both build and live in.  Maybe I&rsquo;ll turn this into a farming sim.</p>
+<p><img src="/images/physics/takeoff.gif" alt="outer wilds orbit"></p>
 
   </article>
 </section>

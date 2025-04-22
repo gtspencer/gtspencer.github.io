@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+
+    <meta name="author" content="Spencer Obsitnik">
+    <meta name="description" content="Escape a giant piano before you black out">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Blackout (or Escape the Piano)"/>
+<meta name="twitter:description" content="Escape a giant piano before you black out"/>
+
+    <meta property="og:title" content="Blackout (or Escape the Piano)" />
+<meta property="og:description" content="Escape a giant piano before you black out" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/projects/blackout/" />
+<meta property="article:published_time" content="2022-01-14T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-01-14T00:00:00+00:00" />
+
+
+    <title>
+  Blackout (or Escape the Piano) · spencerobsitnik
+</title>
+
+    
+      <link rel="canonical" href="/projects/blackout/">
+    
+
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.34dfa7b2f5cdeb0f5302b2628f4a7a4bfe88a2431e1397ee4ec605c56ab69701.css" integrity="sha256-NN&#43;nsvXN6w9TArJij0p6S/6IokMeE5fuTsYFxWq2lwE=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.aa883b9ce35a8ff4a2a5008619005175e842bb18a8a9f9cc2bbcf44dab2d91fa.css" integrity="sha256-qog7nONaj/SipQCGGQBRdehCuxioqfnMK7z0Tastkfo=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.77.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="preload-transitions colorscheme-auto"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      spencerobsitnik
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/threekly/">Threekly</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/shoutouts/">SOxSO</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="/projects/blackout/">
+          Blackout (or Escape the Piano)
+        </a>
+      </h1>
+    </header>
+
+    <p><img src="/images/blackout/vid.gif" alt="blackout"></p>
+<p>Blackout is an experimental &ldquo;game&rdquo; about escaping a giant piano before your screen entirely blacks out.</p>
+<p>It is an exploration into agency, irrationality, and the feeling of not having control.</p>
+<p>The game itself feels frustrating and instills an immediate urgency in the player, who has a mere 12 minutes before their screen entirely blacks out.  However, the game becomes more or less unplayable around the 8 minute mark where 2/3rds of the screen is blacked out.</p>
+<p>This game is not fun, and is more akin to Bennett Foddy&rsquo;s Getting Over It, but with a morose and helpless twist.</p>
+<h4 id="keys">
+  Keys
+  <a class="heading-link" href="#keys">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h4>
+<p>Each key plays a note when you walked over.  Instead of manually assigning a note to each key, I imported 1 audio clip (middle C), and programmatically determined the pitch by the key&rsquo;s position relative to the other keys.  This gave me an ordering of the keys, which I then applied a modulus operation by 12 to (12 keys in the chromatic scale), to get the octave note and the tone (semitone)</p>
+<p><img src="/images/blackout/keys.png" alt="keys"></p>
+<h4 id="blackout-mechanic">
+  Blackout Mechanic
+  <a class="heading-link" href="#blackout-mechanic">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h4>
+<p>I experimented the best way to black out the screen.  First I tried quads covering the screen.  But at the pixel level, this would mean tens of thousands of quads, which tanked performance.</p>
+<p>I ultimately settled on a custom texture, placed in front of the camera and and standardized to the resolution so all resolutions have the same &ldquo;number&rdquo; of pixels.</p>
+<p>Then it was as simple as picking a random pixel, and assigning a black color.</p>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>Contact me at on Twitter @spencerobsitnik or by email at spencerobsitnik[at]gmail[dot]com</p>
+      
+      
+        ©
+        
+          2021 -
+        
+        2025
+         Spencer Obsitnik 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+        
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+      <script src="/js/coder.min.a350362441276ec5c1671926420497bb8e52b63ead1d51d3c9bc4342d0039526.js" integrity="sha256-o1A2JEEnbsXBZxkmQgSXu45Stj6tHVHTybxDQtADlSY="></script>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=GTM-T4SXP4T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GTM-T4SXP4T');
+</script>
+
+  </body>
+
+</html>

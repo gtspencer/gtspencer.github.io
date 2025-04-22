@@ -20,25 +20,25 @@ Inspired by the physics of Jelly Car, I sought to replicate this, but in 3D.</de
     </item>
     
     <item>
-      <title>Wall</title>
+      <title>Wall (releasing on Steam Q4 2025!)</title>
       <link>/projects/wall/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/projects/wall/</guid>
       <description>Disclaimer: Wall is a work in progress, and as such, lots of plot points/beats are omitted. Please reach out to be considered for playtesting!
 This is a game about talking to a Wall. Unless it’s about something else. Hard to say, really. Wall is a short narrative adventure about friendship, loneliness, and staring at surfaces for meaning.
-Features:
- A cube-shaped companion with surprisingly deep thoughts Conversations that unfold as you pace Other rooms (allegedly) At least one emotionally suspicious mannequin  It is my current project, and my intended first pubicly released project.</description>
+Below is the draft trailer for the game. Steam page to come shortly, along with a new polished trailer.</description>
     </item>
     
     <item>
-      <title>The Physics of Outerwilds</title>
+      <title>Cat-er Wilds (The Physics of Outerwilds with a feline friend)</title>
       <link>/projects/outerwilds_clone/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>/projects/outerwilds_clone/</guid>
-      <description>I love Outer Wilds.
-What I discovered    The physics themselves are easy. Making them feel good, where the player feels in control, is hard.</description>
+      <description>I love Outer Wilds. And I love my cat. So I combined them.
+I started out simply wanting to replicate the gravity simulation in Outer Wilds. The physics themselves are easy (gravity, acceleration, velocity, etc.). Making them feel good, where the player feels in control, is hard.
+Each object has a mass, which exerts a gravitational force on all other objects in game (with the exception of the sun, so it sits stationary).</description>
     </item>
     
     <item>
@@ -60,6 +60,17 @@ The premise quickly became apparent, albeit quite simple. You control the view o
       <guid>/projects/elevator/</guid>
       <description>I have always loved elevator programming, and the small details and differences between the programming in different elevators. While seemingly identical, a trained eye can notice small differences in how elevators operate.
 But the details are rarely as simple or straightforward as they might seem. When considering the system, it becomes easy to become overwhelmed with what we optimize for: shorter ride times, shorter wait times, weight/capacity, wear on elevator (i.</description>
+    </item>
+    
+    <item>
+      <title>Blackout (or Escape the Piano)</title>
+      <link>/projects/blackout/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/blackout/</guid>
+      <description>Blackout is an experimental &amp;ldquo;game&amp;rdquo; about escaping a giant piano before your screen entirely blacks out.
+It is an exploration into agency, irrationality, and the feeling of not having control.
+The game itself feels frustrating and instills an immediate urgency in the player, who has a mere 12 minutes before their screen entirely blacks out. However, the game becomes more or less unplayable around the 8 minute mark where 2/3rds of the screen is blacked out.</description>
     </item>
     
     <item>
@@ -89,7 +100,10 @@ To achieve this, I chose to use off-the-shelf hardware to track a user&amp;rsquo
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/vr_time_machine/</guid>
-      <description>The VR Time Machine is a tool I built to organize and visualize my &amp;ldquo;memories&amp;rdquo;.</description>
+      <description>The VR Time Machine is a tool I built to organize and visualize my &amp;ldquo;memories&amp;rdquo;.
+Being my second project ever, it leaves a lot to be desired in terms of clean code and architecture.
+However, it still remains fun to load in my pictures, and travel to days of my past.
+Check it out for yourself here</description>
     </item>
     
     <item>

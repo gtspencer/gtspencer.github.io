@@ -131,7 +131,8 @@
       </h1>
     </header>
 
-    <p>2 Birds 1 Stone is the first game I ever built.</p>
+    <p><img src="/images/2birds1stone/biome.gif" alt="2birds1stone"></p>
+<p>2 Birds 1 Stone is the first game I ever built.</p>
 <p>I was intrigued with VR, at the time a relatively new consumer technology.  The idea that your body itself could be the controller, that physical actions you took could be accurately implemented in a game world, stood out to me.</p>
 <p>So I started prototyping simple real world actions in the game.  The simplest, and most rewarding action, was throwing.  Something humans have always done, and now can do virtually as well.</p>
 <p>The loop is tight and simple: throw rocks at birds, until your rock hits 2 birds in flight (without touching the ground).</p>
@@ -151,6 +152,18 @@
 <li>The loop of picking up/throwing is as fun as it is easy.  There is something very innate in throwing a rock</li>
 <li>The goal <em>sounds</em> easy, but is not.  You get a taste of it when you hit 1 bird: its easy.  But it logarithmically scales in difficulty.  Hitting 2 with 1 rock <em>feels</em> like it should be possible (and it is!) but its SO hard.  I would say 3 would be impossible if I hadn&rsquo;t seen one singular playtester achieve the feat.</li>
 </ul>
+<p>The birds use a simple rigidbody controller.  It took a lot of tweaking and adding some sensors that I wouldn&rsquo;t need in a traditional gravity driven controller, but in the end they came out nicely.  They still bump into things and roll every once in a while, but paired with the art style of the birds, this felt complementary.</p>
+<p><img src="/images/2birds1stone/birdsflight.gif" alt="2birds1stone"></p>
+<h4 id="iterative-playtests">
+  Iterative Playtests
+  <a class="heading-link" href="#iterative-playtests">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h4>
+<p>I Experimented a lot, and found that even hitting a single bird was difficult when they landed up high in trees alone.  I ended up adding more props lower in the levels where the birds could perch.</p>
+<p>In my own playtests, I found this too easy, so I limited the perch probability on these lower objects.</p>
+<p>Players didn&rsquo;t struggle as much, but now they only really aimed for the lower birds.  But they were having fun with it, and the rate of hit birds went up, so I had to keep it in.</p>
+<p>To balance it, I placed rarer birds up high as well as lowered rock gravity value the higher it got.  This was pretty much unnoticeable from the ground, but helped the rock travel further in it&rsquo;s desired path, making it feel more accurate.</p>
 
   </article>
 </section>
