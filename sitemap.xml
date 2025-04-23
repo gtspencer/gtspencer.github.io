@@ -1,173 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/categories/</loc>
+    <loc>https://gtspencer.github.io/categories/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dev/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/categories/dev/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/dev/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/dev/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/project/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/categories/project/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/ratformer/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/ratformer/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/wall/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/wall/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/outerwilds_clone/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/outerwilds_clone/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/second_person_view/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/second_person_view/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/elevator/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/elevator/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/blackout/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/blackout/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bitcoin/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/bitcoin/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ethereum/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/ethereum/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mannyverse/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/mannyverse/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nft/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/nft/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/mannyverse/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/mannyverse/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/threekly/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/threekly/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threekly/threekly_fri_9.17.21/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/threekly/threekly_fri_9.17.21/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threekly/threekly_fri_9.10.21/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/threekly/threekly_fri_9.10.21/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/past_project_spotlight_1/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/past_project_spotlight_1/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/game-dev/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/game-dev/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/project/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/project/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/spotlight/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/spotlight/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/vr_time_machine/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/vr_time_machine/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/shoutouts/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/shoutouts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/soxso/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/soxso/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threekly/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/threekly/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/facebook/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/facebook/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/2birds1stone/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/2birds1stone/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/authors/</loc>
+  </url><url>
+    <loc>https://gtspencer.github.io/series/</loc>
   </url>
-  
-  <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
-  </url>
-  
 </urlset>
