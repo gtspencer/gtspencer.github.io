@@ -23,6 +23,13 @@
       <description>&lt;p&gt;Disclaimer: Wall is a work in progress, and as such, lots of plot points/beats are omitted.  Please reach out to be considered for playtesting!&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;This is a game about talking to a Wall.  &#xA;Unless it’s about something else.  &#xA;Hard to say, really.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;code&gt;Wall&lt;/code&gt; is a short narrative adventure about friendship, loneliness, and staring at surfaces for meaning.&lt;/p&gt;&#xA;&lt;p&gt;Below is the draft trailer for the game.  Steam page to come shortly, along with a new polished trailer.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Personal Dashboard</title>
+      <link>https://gtspencer.github.io/projects/dashboard/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://gtspencer.github.io/projects/dashboard/</guid>
+      <description>&lt;p&gt;When I&amp;rsquo;m not developing games, I tend to tinker.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://gtspencer.github.io/images/dashboard/dashboard.png&#34; alt=&#34;dashboard&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I can&amp;rsquo;t ever get enough monitors.  I found my screen realestate and habits rarely change:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I sometimes like to have some sort of media on in the background while I&amp;rsquo;m working on my personal projects&lt;/li&gt;&#xA;&lt;li&gt;I always go through the same motions while opening my dev environment&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m awful at checking my calendar.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So I sought to solve these miniscule problems with a custom dashboard.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cat-er Wilds (The Physics of Outerwilds with a feline friend)</title>
       <link>https://gtspencer.github.io/projects/outerwilds_clone/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
