@@ -2,107 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gtspencer.github.io/categories/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/categories/dev/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/dev/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/onevsmany/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/categories/project/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/tags/</loc>
+    <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gtspencer.github.io/projects/ratformer/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/dev/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dev/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/project/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/ratformer/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/wall/</loc>
+    <loc>https://gtspencer.github.io/projects/wall/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/dashboard/</loc>
+    <loc>https://gtspencer.github.io/projects/dashboard/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/outerwilds_clone/</loc>
+    <loc>https://gtspencer.github.io/projects/outerwilds_clone/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/second_person_view/</loc>
+    <loc>https://gtspencer.github.io/projects/second_person_view/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/elevator/</loc>
+    <loc>https://gtspencer.github.io/projects/elevator/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/blackout/</loc>
+    <loc>https://gtspencer.github.io/projects/blackout/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bitcoin/</loc>
+    <loc>https://gtspencer.github.io/tags/bitcoin/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ethereum/</loc>
+    <loc>https://gtspencer.github.io/tags/ethereum/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mannyverse/</loc>
+    <loc>https://gtspencer.github.io/tags/mannyverse/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nft/</loc>
+    <loc>https://gtspencer.github.io/tags/nft/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mannyverse/</loc>
+    <loc>https://gtspencer.github.io/projects/mannyverse/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/threekly/</loc>
+    <loc>https://gtspencer.github.io/tags/threekly/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/threekly/threekly_fri_9.17.21/</loc>
+    <loc>https://gtspencer.github.io/threekly/threekly_fri_9.17.21/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/threekly/threekly_fri_9.10.21/</loc>
+    <loc>https://gtspencer.github.io/threekly/threekly_fri_9.10.21/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/past_project_spotlight_1/</loc>
+    <loc>https://gtspencer.github.io/projects/past_project_spotlight_1/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-dev/</loc>
+    <loc>https://gtspencer.github.io/tags/game-dev/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/project/</loc>
+    <loc>https://gtspencer.github.io/tags/project/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spotlight/</loc>
+    <loc>https://gtspencer.github.io/tags/spotlight/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/vr_time_machine/</loc>
+    <loc>https://gtspencer.github.io/projects/vr_time_machine/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/shoutouts/</loc>
+    <loc>https://gtspencer.github.io/shoutouts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/soxso/</loc>
+    <loc>https://gtspencer.github.io/tags/soxso/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/threekly/</loc>
+    <loc>https://gtspencer.github.io/threekly/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://gtspencer.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/facebook/</loc>
+    <loc>https://gtspencer.github.io/facebook/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/2birds1stone/</loc>
+    <loc>https://gtspencer.github.io/projects/2birds1stone/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://gtspencer.github.io/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://gtspencer.github.io/series/</loc>
   </url>
 </urlset>
